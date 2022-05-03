@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Animated Kalimantan Active Fires as Observed by VIIRS
+description: This project using a dataset that contain active fires as observed by the Visible Infrared Imaging Radiometer Suite (VIIRS) between January 1 and December 31, 2021. The VIIRS instrument flies on the Joint Polar Satellite System’s Suomi-NPP and NOAA-20 polar-orbiting satellites. Instruments on polar orbiting satellites typically observe a wildfire at a given location a few times a day as they orbit the Earth from pole to pole. VIIRS detects hot spots at a resolution of 375 meters per pixel, which means it can detect smaller, lower temperature fires than other fire-observing satellites. Its observations are about three times more detailed than those from the MODIS instrument, for example. VIIRS also provides nighttime fire detection capabilities through its Day-Night Band, which can measure low-intensity visible light emitted by small and fledgling fires.
+github_username: alvinnoza-ph
 
 # Email and twitter are optional:
 email:
