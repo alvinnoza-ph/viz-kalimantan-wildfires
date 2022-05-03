@@ -1,3 +1,8 @@
-# Your blog
+# Animated Heatmap Kalimantan Active Fires as Observed by VIIRS
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+![Image of wildfire_from_wikimedia](images/Wildfire_(14503287131).jpg)
+
+## Animated Heatmap Kalimantan Active Fires 2021
+
+And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
